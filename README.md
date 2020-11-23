@@ -1,2 +1,11 @@
 # somename1-surgeclasses
-some description
+
+we will explain few things about this dataset
+
+try to break down the 
+....
+
+
+....
+
+
